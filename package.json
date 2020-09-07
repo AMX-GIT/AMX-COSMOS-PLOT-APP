@@ -1,20 +1,20 @@
 {
-  "name": "electron-quick-start",
+  "name": "AMX Cosmos Plot APP",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "App to open amx cosmos",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/AMX-GIT/AMX-COSMOS-PLOT-APP",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "AMX Innovation",
+    "ODM",
+    "Mapping",
+    "Kedar",
+    "Drone"
   ],
-  "author": "GitHub",
+  "author": "AMX Innovation",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^9.2.0"
